@@ -2,4 +2,4 @@
 
 Projetos para exercitar a criação de layouts.
 
-https://patricchubaca.github.io/AluraPlus/
+https://patric-enderson-developer.github.io/AluraPlus/
